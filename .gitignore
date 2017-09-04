@@ -2,3 +2,5 @@
 .ipynb_checkpoints/
 .cache/
 *.tsv
+
+data/taxi/
